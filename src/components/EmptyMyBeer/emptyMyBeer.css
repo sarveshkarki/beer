@@ -1,0 +1,17 @@
+.emptyBeer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 15px;
+  height: 60vh;
+  background-color: rgba(200, 199, 199, 0.388);
+}
+.emptyBeer p {
+  text-align: center;
+  color: #5b5959ee;
+}
+.emptyBeer p span {
+  cursor: pointer;
+  font-weight: 600;
+  color: steelblue;
+}
